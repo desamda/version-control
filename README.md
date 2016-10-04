@@ -25,7 +25,6 @@ Lecturas:
 https://en.wikipedia.org/wiki/Version_control
 
 
-
 > Written with [StackEdit](https://stackedit.io/).4
 
 
